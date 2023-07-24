@@ -4,10 +4,10 @@
     "slug": "likebourdain",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/likebourdain_logo.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/Likebordain_spash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
